@@ -10,3 +10,5 @@
 ![C++ Projects](https://github.com/user-attachments/assets/ff34c717-ea7f-4964-a03e-3bc9758b43f5)
 
 <p align="center"><a href="https://github.com/hemant467/C-Projects">C & C++ Projects 📜</a></p>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=C;Cpp;Projects📜&font=Fira%20Code&color=%2306F311&center=true&width=280&height=50">
